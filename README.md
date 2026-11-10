@@ -8,7 +8,7 @@ Create and activate the environment.
 
 ```bash
 conda env create -f environment.yml
-conda activate vasg-pretrain
+conda activate vasg
 ```
 
 ## VQ-VAE pretraining
