@@ -1,4 +1,4 @@
-name: vasg-pretrain
+name: vasg
 channels:
   - pytorch
   - nvidia
